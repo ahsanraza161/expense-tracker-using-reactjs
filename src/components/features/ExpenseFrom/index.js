@@ -53,7 +53,7 @@ const ExpenseForm = ({
   };
   return (
     <FormContainer onSubmit={submitHandler}>
-      <Title>Expense From</Title>
+      <Title>Expense Form</Title>
       <FormGroup>
         <Label htmlFor="title">Title</Label> <br />
         <InputField
